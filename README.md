@@ -71,6 +71,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+
+## My Resume
+
+[View my Resume on GitHub](https://github.com/Harshjain10020/Dream)
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
