@@ -88,7 +88,7 @@
 
 <br clear="both">
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph.svg">
