@@ -21,7 +21,7 @@
 
 ##  About Me
 
-I'm a Computer Science student at **VIT Bhopal** specializing in **Cloud-Native Development** and **Distributed Systems**. My focus is on engineering scalable full-stack applications and serverless infrastructure.
+I'm a Computer Science student at **Vellore Institute of Technology Bhopal** specializing in **Cloud-Native Development** and **Distributed Systems**. My focus is on engineering scalable full-stack applications and serverless infrastructure.
 
 -  **Certifications:** **AWS Certified Cloud Practitioner** (Jan 2025) and Salesforce Certified Agentforce Specialist (Sept 2025).
 -  **Key Expertise:** Developing **serverless APIs** (AWS Lambda/DynamoDB), **Infrastructure as Code (AWS SAM)**, and automated deployments with **CI/CD** (GitHub Actions).
