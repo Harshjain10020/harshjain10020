@@ -1,101 +1,101 @@
-<br clear="both">
-
-<h1 align="center">Hallo👋 Ich bin Harsh Jain <br>(Hello 👋 I'm Harsh Jain)</h1>
-
-###
-
-<br clear="both">
-
-<img align="right" height="206" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzRpaXhkdnFlOXIxb2R3aGNuc2tkcnE1d24xeHcwd2t5bmM2bGl0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif"  />
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/harsh-m-jain/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@harshjain6256" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://x.com/yakuza_anom" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="mailto:jainharsh2929@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="linktr.ee/Jain_Harsh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
-  <a href="https://tryhackme.com/p/Yakuza.hartan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
-  </a>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:3c3c3c&height=150&section=header&text=Harsh%20Jain&fontSize=70&animation=glide&fontColor=ffffff&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:1a1a1a&height=80&section=header&text=Software%20Development%20Engineer%20%7C%20Cloud%20Architect%20in%20Training&fontSize=30&animation=fadeIn&fontColor=eeeeee&fontAlignY=55" width="100%" />
 </div>
 
-###
+<p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #ffffff; margin-top: 0; margin-bottom: 30px;">
+  <samp>
+    **AWS Certified** &nbsp;&nbsp; &middot; &nbsp;&nbsp; **Java Spring Boot** &nbsp;&nbsp; &middot; &nbsp;&nbsp; **React** &nbsp;&nbsp; &middot; &nbsp;&nbsp; **Distributed Systems**
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## Professional Summary
+
+I'm a Computer Science student at **VIT Bhopal** and an **AWS Certified Cloud Practitioner**, driven to build highly available and scalable software solutions. My expertise lies at the intersection of robust backend development and modern cloud infrastructure.
+
+- **Certifications:** **AWS Certified Cloud Practitioner** (Jan 2025) and Salesforce Certified Agentforce Specialist (Sept 2025).
+- **Key Expertise:** Developing **serverless architectures (Lambda, DynamoDB)**, implementing **CI/CD** pipelines (GitHub Actions), and using **Infrastructure as Code (AWS SAM)**.
+- **Problem-Solving & Achievement:** **Top 8 Finalist** at the PEARS Global Hackathon 2025 (out of 400+ teams) and participation in the advanced round of **Summer of Bitcoin 2025**.
+
+[View My Full Resume Here](https://github.com/Harshjain10020/Dream)
+
+---
+
+## Featured Projects
+
+This section emphasizes scalable, distributed, and systems-level work—the focus areas for SDE roles.
+
+### 1. AWS Cloud Resume Challenge
+A personal portfolio implemented with a fully **serverless and scalable architecture**.
+- **Focus:** Serverless, CI/CD, and Cloud Infrastructure as Code (IaC).
+- **Stack:** `AWS (S3, CloudFront, Lambda, DynamoDB, API Gateway), React.js, AWS SAM`
+- **Impact:** Achieved **99.9% uptime** and handled **500+ unique visits**. Automated deployment using **GitHub Actions** for CI/CD and defined infrastructure with **AWS SAM**.
+
+[Link to Repository](https://github.com/Harshjain10020/cloud-resume-challenge)
+
+### 2. Investinet - P2P Investigation Platform
+A secure, **decentralized peer-to-peer (P2P) communication system** for investigations.
+- **Focus:** Distributed Networking, Peer-to-Peer Communication, and Security.
+- **Stack:** `JavaScript, Node.js, Hyperswarm (PEARS Library)`
+- **Impact:** **Top 8 Finalist** at a global hackathon. The system featured **low-latency chat** and a community moderation feature that **reduced unverified content by 35%**.
+
+[Link to Repository](https://github.com/Harshjain10020/Investinet)
+
+### 3. Movie Review & Personal List Application
+A modern **full-stack web application** with dedicated API and database layers.
+- **Focus:** RESTful API Design, Full-Stack Development, and Cloud Deployment.
+- **Stack:** `Java Spring Boot, React, MongoDB, Tailwind, AWS`
+- **Impact:** Designed a robust **RESTful API** using **Java Spring Boot**. Ensured high availability by deploying the React frontend on **AWS S3/CloudFront**.
+
+[Link to Repository](https://github.com/Harshjain10020/Movie-Review-App)
+
+---
+
+## Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Cloud & DevOps**| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CI/CD (Actions)](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Databases** | ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harshjain10020.Harshjain10020&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshjain10020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshjain10020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" alt="Top Languages" width="48%" />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Harsh Jain from CS Student @ VIT Bhopal.<br><br>specializing in Frontend Development, Cloud Computing, and Blockchain. I'm an AWS Certified Cloud Practitioner and an active problem solver on platforms like LeetCode and GeeksforGeeks.<br><br> I enjoy building impactful projects—from decentralized peer-to-peer platforms to real-time computer vision applications—using technologies like React.js, Tailwind CSS, Java, and Python. <br><br>I'm constantly exploring new ideas, contributing to open-source, and sharing my journey through code. Let's connect and build something meaningful together!</p>
-
-###
-
-
-
-###
-
-
- # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-
-## My Resume
-
-[View my Resume on GitHub](https://github.com/Harshjain10020/Dream)
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Harshjain10020/count.svg?"  />
+  <img src="https://streak-stats.demolab.com?user=Harshjain10020&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" alt="GitHub Streak" width="97%" />
 </div>
 
-###
+---
 
-<br clear="both">
+## Connect with Me
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshjain10020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshjain10020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Harshjain10020&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="165" alt="streak graph"  />
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshjain10020&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshjain10020&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="center">
+  <a href="https://github.com/Harshjain10020" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/harsh-m-jain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jainharsh2929@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://x.com/yakuza_anom" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter/X" /></a>
 </div>
 
-###
+---
 
-<br clear="both">
-
-<!-- <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph.svg">
-<!--     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Harshjain10020/Harshjain10020/output/pacman-contribution-graph.svg"> -->
-  </picture>
-</div>
-
-
-###
+*Striving to build innovative, robust, and cloud-native solutions.*
