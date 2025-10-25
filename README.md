@@ -1,80 +1,62 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:171717,100:3c3c3c&height=150&section=header&text=Harsh%20Jain&fontSize=70&animation=glide&fontColor=ffffff&fontAlignY=38" width="100%" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:1a1a1a&height=80&section=header&text=Software%20Development%20Engineer%20%7C%20Cloud%20Architect%20in%20Training&fontSize=30&animation=fadeIn&fontColor=eeeeee&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2c,100:1a1a1a&height=80&section=header&text=SDE%20Apprentice%20%7C%20Cloud%20Developer%20%7C%20Distributed%20Systems&fontSize=30&animation=fadeIn&fontColor=eeeeee&fontAlignY=55" width="100%" />
 </div>
 
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #ffffff; margin-top: 0; margin-bottom: 30px;">
   <samp>
-    **AWS Certified** &nbsp;&nbsp; &middot; &nbsp;&nbsp; **Java Spring Boot** &nbsp;&nbsp; &middot; &nbsp;&nbsp; **React** &nbsp;&nbsp; &middot; &nbsp;&nbsp; **Distributed Systems**
+     AWS Certified &nbsp;&nbsp; &middot; &nbsp;&nbsp; Full-Stack (Java/React) &nbsp;&nbsp; &middot; &nbsp;&nbsp; CI/CD &nbsp;&nbsp; &middot; &nbsp;&nbsp; Hackathon Top 8 Finalist
   </samp>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+##  About Me
+
+I'm a Computer Science student at **VIT Bhopal** specializing in **Cloud-Native Development** and **Distributed Systems**. My focus is on engineering scalable full-stack applications and serverless infrastructure.
+
+-  **Certifications:** **AWS Certified Cloud Practitioner** (Jan 2025) and Salesforce Certified Agentforce Specialist (Sept 2025).
+-  **Key Expertise:** Developing **serverless APIs** (AWS Lambda/DynamoDB), **Infrastructure as Code (AWS SAM)**, and automated deployments with **CI/CD** (GitHub Actions).
+-  **Full-Stack Development:** Proficient in **Java Spring Boot** for robust RESTful APIs and **React.js/Tailwind** for modern frontends.
+-  **Achievements:** **Top 8 Finalist** at the PEARS Global Hackathon 2025 (out of 400+ teams) and **Summer of Bitcoin 2025** Advanced Round.
+
+[View My Full Resume](https://github.com/Harshjain10020/Dream)
+
 ---
 
-## Professional Summary
+##  Featured Projects
 
-I'm a Computer Science student at **VIT Bhopal** and an **AWS Certified Cloud Practitioner**, driven to build highly available and scalable software solutions. My expertise lies at the intersection of robust backend development and modern cloud infrastructure.
+This section highlights my experience across cloud architecture, distributed systems, and full-stack development.
 
-- **Certifications:** **AWS Certified Cloud Practitioner** (Jan 2025) and Salesforce Certified Agentforce Specialist (Sept 2025).
-- **Key Expertise:** Developing **serverless architectures (Lambda, DynamoDB)**, implementing **CI/CD** pipelines (GitHub Actions), and using **Infrastructure as Code (AWS SAM)**.
-- **Problem-Solving & Achievement:** **Top 8 Finalist** at the PEARS Global Hackathon 2025 (out of 400+ teams) and participation in the advanced round of **Summer of Bitcoin 2025**.
-
-[View My Full Resume Here](https://github.com/Harshjain10020/Dream)
-
----
-
-## Featured Projects
-
-This section emphasizes scalable, distributed, and systems-level work—the focus areas for SDE roles.
-
-### 1. AWS Cloud Resume Challenge
-A personal portfolio implemented with a fully **serverless and scalable architecture**.
-- **Focus:** Serverless, CI/CD, and Cloud Infrastructure as Code (IaC).
+### AWS Cloud Resume Challenge
+A fully serverless portfolio deployed on AWS.
+- **Focus:** Serverless Architecture, CI/CD, and Scalability.
 - **Stack:** `AWS (S3, CloudFront, Lambda, DynamoDB, API Gateway), React.js, AWS SAM`
-- **Impact:** Achieved **99.9% uptime** and handled **500+ unique visits**. Automated deployment using **GitHub Actions** for CI/CD and defined infrastructure with **AWS SAM**.
+- **Impact:** Built and integrated a real-time visitor counter with a scalable serverless API, processing **500+ unique visits** with **99.9% uptime**. Automated deployments with CI/CD (GitHub Actions) and IaaC (AWS SAM).
 
-[Link to Repository](https://github.com/Harshjain10020/cloud-resume-challenge)
-
-### 2. Investinet - P2P Investigation Platform
-A secure, **decentralized peer-to-peer (P2P) communication system** for investigations.
-- **Focus:** Distributed Networking, Peer-to-Peer Communication, and Security.
+### Investinet - P2P Investigation Platform
+A secure, decentralized platform for peer-to-peer investigation and collaboration.
+- **Focus:** Distributed Systems, Network Communication, and Security.
 - **Stack:** `JavaScript, Node.js, Hyperswarm (PEARS Library)`
-- **Impact:** **Top 8 Finalist** at a global hackathon. The system featured **low-latency chat** and a community moderation feature that **reduced unverified content by 35%**.
+- **Impact:** **Secured a Top 8 finalist spot** at the PEARS Global Hackathon 2025. Engineered a low-latency P2P communication system and implemented moderation that **reduced unverified content by 35%**.
 
-[Link to Repository](https://github.com/Harshjain10020/Investinet)
-
-### 3. Movie Review & Personal List Application
-A modern **full-stack web application** with dedicated API and database layers.
+### Movie Review & Personal List Application
+A full-stack web application for user movie reviews and personalized lists.
 - **Focus:** RESTful API Design, Full-Stack Development, and Cloud Deployment.
 - **Stack:** `Java Spring Boot, React, MongoDB, Tailwind, AWS`
-- **Impact:** Designed a robust **RESTful API** using **Java Spring Boot**. Ensured high availability by deploying the React frontend on **AWS S3/CloudFront**.
-
-[Link to Repository](https://github.com/Harshjain10020/Movie-Review-App)
+- **Impact:** Designed and developed a full-stack application with a RESTful API and managed movie data in MongoDB. Deployed the frontend on AWS S3 and CloudFront for high availability.
 
 ---
 
-## Technical Toolkit
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Cloud & DevOps**| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![CI/CD (Actions)](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
-| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Databases** | ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-
----
-
-## GitHub Stats
+##  GitHub Stats & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harshjain10020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="GitHub Stats" width="48%" />
@@ -87,7 +69,7 @@ A modern **full-stack web application** with dedicated API and database layers.
 
 ---
 
-## Connect with Me
+##  Connect with Me
 
 <div align="center">
   <a href="https://github.com/Harshjain10020" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -98,4 +80,4 @@ A modern **full-stack web application** with dedicated API and database layers.
 
 ---
 
-*Striving to build innovative, robust, and cloud-native solutions.*
+ *Building the next generation of cloud-native, distributed applications.*
