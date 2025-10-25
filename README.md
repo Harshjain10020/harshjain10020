@@ -5,7 +5,7 @@
 
 <p align="center" style="font-family: 'Fira Code', monospace; font-size: 24px; color: #ffffff; margin-top: 0; margin-bottom: 30px;">
   <samp>
-     AWS Certified &nbsp;&nbsp; &middot; &nbsp;&nbsp; Full-Stack (Java/React) &nbsp;&nbsp; &middot; &nbsp;&nbsp; CI/CD &nbsp;&nbsp; &middot; &nbsp;&nbsp; Hackathon Top 8 Finalist
+    ☁️ AWS Certified &nbsp;&nbsp; &middot; &nbsp;&nbsp; Full-Stack (Java/React) &nbsp;&nbsp; &middot; &nbsp;&nbsp; CI/CD &nbsp;&nbsp; &middot; &nbsp;&nbsp; Hackathon Top 8 Finalist
   </samp>
 </p>
 
@@ -80,4 +80,4 @@ A full-stack web application for user movie reviews and personalized lists.
 
 ---
 
- *Building the next generation of cloud-native, distributed applications.*
+⭐ *Building the next generation of cloud-native, distributed applications.*
